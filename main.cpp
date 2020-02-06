@@ -148,7 +148,7 @@ int main()
     Word wordchild;
     int number,vowel,consonant;
 
-    cout<<"\t***************NUMEROLOGY CALCULATOR***************\n";
+    cout<<"\t***************ALPHABETIC ARITHMETIC CALCULATOR***************\n";
     cout<<"\tGUIDELINES:\n\t1. WORD FIRST, THEN LETTERS OF THE WORD\n\t2. USE A FULLSTOP AT THE END OF THE WORD\n\t3. NO SPACES BETWEEN THE LETTERS\n\t4. MAXIMUM NUMBER OF LETTERS IS 20\n\t5. (Q/q) FOR QUIT\n";
 
     repeat:
